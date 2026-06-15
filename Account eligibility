@@ -1,0 +1,13 @@
+name = input("Enter your name: ")
+age = int(input("Enter your age: "))
+if age < 18:
+    print(f"Saldy {name},your not eligible.")
+else:
+    print(f"Nice {name},your eligible.")
+
+aura = input("Do you want to create an account (yes,no): ")
+
+if aura.lower() == "yes":
+    print("Your account has been made.")
+else:
+        print("Account creation canceled.")
