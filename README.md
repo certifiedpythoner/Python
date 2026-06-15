@@ -25,9 +25,9 @@ python main.py
 ## Example
 
 ```
-Enter your name: Alex
+Enter your name: Imran
 Enter your age: 20
-Nice Alex, your eligible.
+Nice Imran, your eligible.
 
 Do you want to create an account (yes,no): yes
 Your account has been made.
