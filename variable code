@@ -1,0 +1,11 @@
+age = 13
+
+
+
+user_name = "Imran"
+
+
+is_active = True
+
+print(user_name)
+print(age)
