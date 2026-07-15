@@ -1,0 +1,6 @@
+for Hello in [50,49,48,47,46,45,44,43,42,41,40,39,38,37,36,35,34,33,32,31,30,29,28,27,26,25,24,23,22,21,20,19,18,17,15,14,13,12,11,10,9,8,7,6,5,4,3,2,1]:
+ print("Hello")
+print("Blastoff") 
+
+
+#you can do more than 50, you can either type it all out, or ask ai to count to (number) for you
