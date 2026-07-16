@@ -1,3 +1,3 @@
-All my Kali from
+All my python from
 
-7/16/26
+6/12/26
